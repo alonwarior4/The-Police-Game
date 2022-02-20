@@ -1,0 +1,49 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f1e8ba52715a48dd3ca6de98d1e49d86:43a6d67ad9723ce69ee594e9189215cd:f2c2df7d630c924d533e731ed73babbe$
+#
+:format=40300
+:texture=UiMenu.png
+:size=2044x1436
+:pivotpoints=enabled
+:borders=disabled
+
+back button;353;21;124;124; 0.5;0.5; 0;0;0;0
+Example sign;1617;157;216;216; 0.5;0.5; 0;0;0;0
+game logo;1;807;824;628; 0.5;0.5; 0;0;0;0
+Level button 1;1116;7;244;182; 0.5;0.5; 0;0;0;0
+Level button 2;1484;559;245;182; 0.5;0.5; 0;0;0;0
+Level button 3;1362;7;244;182; 0.5;0.5; 0;0;0;0
+Level button 4;1219;375;245;182; 0.5;0.5; 0;0;0;0
+Level button 5;1466;375;245;182; 0.5;0.5; 0;0;0;0
+Level button 6;1713;375;244;182; 0.5;0.5; 0;0;0;0
+Level button 7;869;39;245;182; 0.5;0.5; 0;0;0;0
+Level button 8;1123;191;245;182; 0.5;0.5; 0;0;0;0
+Level button 9;1731;559;244;182; 0.5;0.5; 0;0;0;0
+Level button 10;1237;559;245;182; 0.5;0.5; 0;0;0;0
+lock;827;665;408;492; 0.5;0.5; 0;0;0;0
+Locked level;869;223;252;182; 0.5;0.5; 0;0;0;0
+Main menu lights;703;718;87;87; 0.5;0.5; 0;0;0;0
+MoreGames;1785;1179;256;256; 0.5;0.5; 0;0;0;0
+Music;353;147;256;256; 0.5;0.5; 0;0;0;0
+MusicOff;1237;743;256;256; 0.5;0.5; 0;0;0;0
+New icon;479;65;80;80; 0.5;0.5; 0;0;0;0
+No entry sign;1608;3;156;152; 0.5;0.5; 0;0;0;0
+no left-turn sign;1723;1005;156;152; 0.5;0.5; 0;0;0;0
+no right-turn sign;1881;1025;156;152; 0.5;0.5; 0;0;0;0
+no stop-parking sign;1753;851;156;152; 0.5;0.5; 0;0;0;0
+no U-turn sign;1766;3;156;152; 0.5;0.5; 0;0;0;0
+PlayG;1;53;350;350; 0.5;0.5; 0;0;0;0
+PopUp;1;405;700;400; 0.5;0.5; 0;0;0;0
+Setting;1495;743;256;256; 0.5;0.5; 0;0;0;0
+ShutDown;703;407;256;256; 0.5;0.5; 0;0;0;0
+Sign inventory gradiant;827;1159;956;276; 0.5;0.5; 0;0;0;0
+Sound;961;407;256;256; 0.5;0.5; 0;0;0;0
+SoundOff;611;147;256;256; 0.5;0.5; 0;0;0;0
+Title panel ;1237;1001;484;156; 0.5;0.5; 0;0;0;0
+Tutorial;1835;173;200;200; 0.5;0.5; 0;0;0;0
+Unlocked level;1370;191;245;182; 0.5;0.5; 0;0;0;0

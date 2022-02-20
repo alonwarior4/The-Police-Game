@@ -1,0 +1,1078 @@
+fileFormatVersion: 2
+guid: 39be4866948c2c646963ced0f390b719
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7113541007066264153
+    second: Koche_0
+  - first:
+      213: 6103546697420986005
+    second: Koche_1
+  - first:
+      213: -2289729700167547606
+    second: Koche_2
+  - first:
+      213: -2826985054920624499
+    second: Koche_3
+  - first:
+      213: -876542782654003751
+    second: Koche_4
+  - first:
+      213: -9155315813194417907
+    second: Koche_5
+  - first:
+      213: -8716037128111459925
+    second: Koche_6
+  - first:
+      213: 8994673539515312577
+    second: Koche_7
+  - first:
+      213: -1846116970657834012
+    second: Koche_8
+  - first:
+      213: 5603132888575461072
+    second: Koche_9
+  - first:
+      213: 283000960889559232
+    second: Koche_10
+  - first:
+      213: 752894719207415422
+    second: Koche_11
+  - first:
+      213: 3973380900635450291
+    second: Koche_12
+  - first:
+      213: -4362175507861590100
+    second: Koche_13
+  - first:
+      213: 799097411366717078
+    second: Koche_14
+  - first:
+      213: 5188918154480416244
+    second: Koche_15
+  - first:
+      213: -3694791475316598935
+    second: Koche_16
+  - first:
+      213: -8444803841410351442
+    second: Koche_17
+  - first:
+      213: -2762621998550757690
+    second: Koche_18
+  - first:
+      213: -8315603459844359462
+    second: Koche_19
+  - first:
+      213: 954152465764541909
+    second: Koche_20
+  - first:
+      213: -2756398975318498528
+    second: Koche_21
+  - first:
+      213: 2913933561073228140
+    second: Koche_22
+  - first:
+      213: 4309373848376200194
+    second: Koche_23
+  - first:
+      213: -3002367200421988024
+    second: Koche_24
+  - first:
+      213: 6626243868577444084
+    second: Koche_25
+  - first:
+      213: -1960459127056305357
+    second: Koche_26
+  - first:
+      213: 2744006795398931991
+    second: Koche_27
+  - first:
+      213: -2325865024349750797
+    second: Koche_28
+  - first:
+      213: 5781014645147638002
+    second: Koche_29
+  - first:
+      213: 7280490141054178036
+    second: Koche_30
+  - first:
+      213: 7093778991996690124
+    second: Koche_31
+  - first:
+      213: -6824008270903017765
+    second: Koche_32
+  - first:
+      213: 5337304916402492905
+    second: Koche_33
+  - first:
+      213: 1910886386502949032
+    second: Koche_34
+  - first:
+      213: 5347985587504775902
+    second: Koche_35
+  - first:
+      213: -2247064090641545169
+    second: Koche_0
+  - first:
+      213: 2688535600391386211
+    second: Koche_1
+  - first:
+      213: -752973451218271376
+    second: Koche_2
+  - first:
+      213: -1944498215112558267
+    second: Koche_3
+  - first:
+      213: -1487410075588956696
+    second: Koche_4
+  - first:
+      213: -5383125165622391091
+    second: Koche_5
+  - first:
+      213: -5417970548827316356
+    second: Koche_6
+  - first:
+      213: -892053072102573438
+    second: Koche_7
+  - first:
+      213: 2549518373303026737
+    second: Koche_8
+  - first:
+      213: -8558192045983302130
+    second: Koche_9
+  - first:
+      213: -1138229838894612444
+    second: Koche_10
+  - first:
+      213: -3394158117039549134
+    second: Koche_11
+  - first:
+      213: 4700592272970569353
+    second: Koche_12
+  - first:
+      213: -4068036730938356490
+    second: Koche_13
+  - first:
+      213: -5231893241599920069
+    second: Koche_14
+  - first:
+      213: 7198263732893194480
+    second: Koche_15
+  - first:
+      213: -7446269946111014419
+    second: Koche_16
+  - first:
+      213: -2107144094597201829
+    second: Koche_17
+  - first:
+      213: 168420793348170460
+    second: Koche_18
+  - first:
+      213: -4796192956765978997
+    second: Koche_19
+  - first:
+      213: 6641940289013055996
+    second: Koche_20
+  - first:
+      213: -4709330281505668247
+    second: Koche_21
+  - first:
+      213: -53082300000712069
+    second: Koche_22
+  - first:
+      213: 4101980852877636763
+    second: Koche_23
+  - first:
+      213: -6798550234415168010
+    second: Koche_24
+  - first:
+      213: -3050103300912816994
+    second: Koche_25
+  - first:
+      213: 690759261188679172
+    second: Koche_26
+  - first:
+      213: 8674128425078282357
+    second: Koche_27
+  - first:
+      213: 5497346043195872180
+    second: Koche_28
+  - first:
+      213: -6862170095587418836
+    second: Koche_29
+  - first:
+      213: 6733656202273900868
+    second: Koche_30
+  - first:
+      213: 7776714359625729405
+    second: Koche_31
+  - first:
+      213: -6507943602024885620
+    second: Koche_32
+  - first:
+      213: 1444983484008563957
+    second: Koche_33
+  - first:
+      213: -1157967382959090354
+    second: Koche_34
+  - first:
+      213: -8739379159175783622
+    second: Koche_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Koche_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 203
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2846c17d13d0d0e0800000000000000
+      internalID: -2247064090641545169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 203
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364f15352e89f4520800000000000000
+      internalID: 2688535600391386211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 202
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073c5d2b2a6ec85f0800000000000000
+      internalID: -752973451218271376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 201
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549b5ddfc21c305e0800000000000000
+      internalID: -1944498215112558267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 202
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edee29ba68ab5be0800000000000000
+      internalID: -1487410075588956696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 203
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce8c91de2c4b45b0800000000000000
+      internalID: -5383125165622391091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_6
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 202
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f9e91dd708fc4b0800000000000000
+      internalID: -5417970548827316356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_7
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 201
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ab78c057ace93f0800000000000000
+      internalID: -892053072102573438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 202
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1340f0dd375b16320800000000000000
+      internalID: 2549518373303026737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 135
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e779b6da13b3980800000000000000
+      internalID: -8558192045983302130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 135
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420cfebfdf13430f0800000000000000
+      internalID: -1138229838894612444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 136
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2355952fc2785e0d0800000000000000
+      internalID: -3394158117039549134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 137
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9865b5874cbdb3140800000000000000
+      internalID: 4700592272970569353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 136
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc8d27852e6b87c0800000000000000
+      internalID: -4068036730938356490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 136
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b387ba701d49467b0800000000000000
+      internalID: -5231893241599920069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 136
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f81dae1abe55e360800000000000000
+      internalID: 7198263732893194480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_16
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 136
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9c260afe889a890800000000000000
+      internalID: -7446269946111014419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 136
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50c8fe2c9be1c2e0800000000000000
+      internalID: -2107144094597201829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 69
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2ae48b1d9565200800000000000000
+      internalID: 168420793348170460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 69
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ebbb9caef707db0800000000000000
+      internalID: -4796192956765978997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 68
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf18af99089ec2c50800000000000000
+      internalID: 6641940289013055996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 68
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9634dd06f0915aeb0800000000000000
+      internalID: -4709330281505668247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_22
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 68
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac89cede9634ff0800000000000000
+      internalID: -53082300000712069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 69
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94b93b3ad92de830800000000000000
+      internalID: 4101980852877636763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 68
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f509020592b6a1a0800000000000000
+      internalID: -6798550234415168010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 68
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c58dc353bdba5d0800000000000000
+      internalID: -3050103300912816994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_26
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 68
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406667463e1169900800000000000000
+      internalID: 690759261188679172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578d8e858d1b06870800000000000000
+      internalID: 8674128425078282357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3d610a91f7a4c40800000000000000
+      internalID: 5497346043195872180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d1438c7aca4c0a0800000000000000
+      internalID: -6862170095587418836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4494428b3a0c27d50800000000000000
+      internalID: 6733656202273900868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75cb2dd1807ceb60800000000000000
+      internalID: 7776714359625729405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82d70746c32fa5a0800000000000000
+      internalID: -6507943602024885620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f403a6a2dc9d0410800000000000000
+      internalID: 1444983484008563957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_34
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e451c35ecc21eefe0800000000000000
+      internalID: -1157967382959090354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koche_35
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b10eb35fc77b680800000000000000
+      internalID: -8739379159175783622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

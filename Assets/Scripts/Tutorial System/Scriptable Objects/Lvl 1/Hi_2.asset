@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7597458a5ecf9e488ef1b0a7f3cb5bf, type: 3}
+  m_Name: Hi_2
+  m_EditorClassIdentifier: 
+  policeText: " \uFEE5\uFEEE\uFEE3\uFEAE\uFEEC\uFEB7 \uFEAA\uFBFE\uFE8E\uFE91 \u060C\uFEAE\uFE98\uFEB8\uFBFF\uFE91
+    \uFBFD\uFEE8\uFEE4\uFBFE\uFE8D \uFBFC\uFE8D\uFEAE\uFE91\r\n \uFBFD\uFB94\uFEAA\uFEE8\uFEE7\uFE8D\uFEAD
+    \uFEED \uFBFD\uFBFE\uFE8E\uFEE4\uFEE8\uFEEB\uFE8D\uFEAD \uFEE2\uFE8B\uFEFC\uFECB
+    \uFEEA\uFE91 \uFEED\uFEAD\n.\uFEE2\uFBFF\uFEE8\uFB90 \uFEB0\uFEEC\uFEA0\uFEE3"

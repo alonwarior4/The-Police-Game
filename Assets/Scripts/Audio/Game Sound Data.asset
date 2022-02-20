@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34eec23c916fcc349bcd1afe134f2daf, type: 3}
+  m_Name: Game Sound Data
+  m_EditorClassIdentifier: 
+  NC_PopUp:
+    clip: {fileID: 8300000, guid: 527cc419b44fc3a4eaea901011f844b2, type: 3}
+    volume: 0.8
+  NC_PopUpTap:
+    clip: {fileID: 8300000, guid: 5d3ec1548694dbf418b52f399d9b5899, type: 3}
+    volume: 0.8
+  MainCrimeTapOnCar:
+    clip: {fileID: 8300000, guid: 39dc684c3d410ba409823c38cd3de733, type: 3}
+    volume: 0.5
+  MainCrimeNoTap:
+    clip: {fileID: 8300000, guid: d50fcef4c4a7ad04794f716bff89026c, type: 3}
+    volume: 0.8
+  spec_Enter:
+    clip: {fileID: 8300000, guid: fa022d3e7fc4ae54c8852b1dd281736b, type: 3}
+    volume: 0.9
+  Tap_NTC:
+    clip: {fileID: 8300000, guid: 0b269c4c696b29c499a6221cf3b640b6, type: 3}
+    volume: 0.5
+  MultiTap_Fire:
+    clip: {fileID: 8300000, guid: bef1d9ffd9d703d498f079811eb25657, type: 3}
+    volume: 0.8
+  SignLaserSound:
+    clip: {fileID: 8300000, guid: 8e7f9f30cc36e9846bd59aca8d4c67fb, type: 3}
+    volume: 0.5
+  PoliceCome:
+    clip: {fileID: 8300000, guid: 9583c8fa8bef8294fabf4d65d9917f8e, type: 3}
+    volume: 0.8
+  PoliceGo:
+    clip: {fileID: 8300000, guid: f37d401e68d93824c96deac2eaa6a85f, type: 3}
+    volume: 0.8
+  UiClick:
+    clip: {fileID: 8300000, guid: 37383647b78f7fd44ab72db7ce8f2aa2, type: 3}
+    volume: 0.8
+  ItemPick:
+    clip: {fileID: 8300000, guid: 2a89cf12f6578254f8bdaddc38ce036a, type: 3}
+    volume: 0.8
+  ItemDrop:
+    clip: {fileID: 8300000, guid: 11aa179965b124e4f99ad99baf058c9a, type: 3}
+    volume: 0.8
+  ItemOpened:
+    clip: {fileID: 8300000, guid: 5a956af88e2161c4bad6946f601d901a, type: 3}
+    volume: 0.3
+  AzhirSound:
+    clip: {fileID: 8300000, guid: 06cdf567ad621b946986635487962c42, type: 3}
+    volume: 1
+  ArrowUp:
+    clip: {fileID: 8300000, guid: df166ab82a4ac64408aa00a6ef03912d, type: 3}
+    volume: 1
+  ScrollSign:
+    clip: {fileID: 8300000, guid: 9877a2c7dbff3824ab744364c1da9ba0, type: 3}
+    volume: 0.8
+  WinSound:
+    clip: {fileID: 8300000, guid: 233b36b214609694b852b9ded4135c10, type: 3}
+    volume: 0.8
+  ItemWrongPalcement:
+    clip: {fileID: 8300000, guid: d08748a3e9779d44dbc6643b66f88eca, type: 3}
+    volume: 0.8

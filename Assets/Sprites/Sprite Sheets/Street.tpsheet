@@ -1,0 +1,49 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:5ce0dc5d8d8e01104288e6885402ba1e:9c379abd9beafc62632a40ed2973cd21:20e4a91c18e0416df153ed655b1c6f90$
+#
+:format=40300
+:texture=Street.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+buttom left edge 1;1;895;128;128; 0.5;0.5; 0;0;0;0
+buttom left edge 2;131;895;128;128; 0.5;0.5; 0;0;0;0
+buttom right corner 1;261;895;128;128; 0.5;0.5; 0;0;0;0
+buttom right corner 2;391;895;128;128; 0.5;0.5; 0;0;0;0
+buttom right corner 3;521;895;128;128; 0.5;0.5; 0;0;0;0
+buttom right corner 4;651;895;128;128; 0.5;0.5; 0;0;0;0
+buttom right edge 1;781;895;128;128; 0.5;0.5; 0;0;0;0
+buttom right edge 2;1;765;128;128; 0.5;0.5; 0;0;0;0
+butttom left corner 1;131;765;128;128; 0.5;0.5; 0;0;0;0
+butttom left corner 2;261;765;128;128; 0.5;0.5; 0;0;0;0
+butttom left corner 3;391;765;128;128; 0.5;0.5; 0;0;0;0
+butttom left corner 4;521;765;128;128; 0.5;0.5; 0;0;0;0
+down line;651;765;128;128; 0.5;0.5; 0;0;0;0
+horizontal middle line;781;765;128;128; 0.5;0.5; 0;0;0;0
+horizontal side walk up;1;635;128;128; 0.5;0.5; 0;0;0;0
+left line;131;635;128;128; 0.5;0.5; 0;0;0;0
+right line;261;635;128;128; 0.5;0.5; 0;0;0;0
+street field;391;635;128;128; 0.5;0.5; 0;0;0;0
+top left corner 1;521;635;128;128; 0.5;0.5; 0;0;0;0
+top left corner 2;651;635;128;128; 0.5;0.5; 0;0;0;0
+top left corner 3;781;635;128;128; 0.5;0.5; 0;0;0;0
+top left corner 4;1;505;128;128; 0.5;0.5; 0;0;0;0
+top left edge 2;131;505;128;128; 0.5;0.5; 0;0;0;0
+top left edge 3;261;505;128;128; 0.5;0.5; 0;0;0;0
+top left edge 4;391;505;128;128; 0.5;0.5; 0;0;0;0
+top right corner 1;521;505;128;128; 0.5;0.5; 0;0;0;0
+top right corner 2;651;505;128;128; 0.5;0.5; 0;0;0;0
+top right corner 3;781;505;128;128; 0.5;0.5; 0;0;0;0
+top right corner 4;1;375;128;128; 0.5;0.5; 0;0;0;0
+top right edge 1;131;375;128;128; 0.5;0.5; 0;0;0;0
+top right edge 3;261;375;128;128; 0.5;0.5; 0;0;0;0
+top right edge 4;391;375;128;128; 0.5;0.5; 0;0;0;0
+up line;521;375;128;128; 0.5;0.5; 0;0;0;0
+vertical middle line;651;375;128;128; 0.5;0.5; 0;0;0;0
+vertical side walk;781;375;128;128; 0.5;0.5; 0;0;0;0

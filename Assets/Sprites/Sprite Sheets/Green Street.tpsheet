@@ -1,0 +1,44 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:7014dfa9d862331f0e5853f89f3c1894:3005913389ba88e813cf217c1a788b25:218eef84ce8d4444993674e3582a2cda$
+#
+:format=40300
+:texture=Green Street.png
+:size=1024x680
+:pivotpoints=enabled
+:borders=disabled
+
+buttom left edge green1;1;551;128;128; 0.5;0.5; 0;0;0;0
+buttom left edge green2;131;551;128;128; 0.5;0.5; 0;0;0;0
+buttom right corner green1;261;551;128;128; 0.5;0.5; 0;0;0;0
+buttom right corner green2;391;551;128;128; 0.5;0.5; 0;0;0;0
+buttom right corner green3;521;551;128;128; 0.5;0.5; 0;0;0;0
+buttom right corner green4;651;551;128;128; 0.5;0.5; 0;0;0;0
+buttom right edge green1;781;551;128;128; 0.5;0.5; 0;0;0;0
+buttom right edge green2;1;421;128;128; 0.5;0.5; 0;0;0;0
+butttom left corner green1;131;421;128;128; 0.5;0.5; 0;0;0;0
+butttom left corner green2;261;421;128;128; 0.5;0.5; 0;0;0;0
+butttom left corner green3;391;421;128;128; 0.5;0.5; 0;0;0;0
+butttom left corner green4;521;421;128;128; 0.5;0.5; 0;0;0;0
+horizontal side walk up green;651;421;128;128; 0.5;0.5; 0;0;0;0
+left line green;781;421;128;128; 0.5;0.5; 0;0;0;0
+right line green;1;291;128;128; 0.5;0.5; 0;0;0;0
+top left corner green1;131;291;128;128; 0.5;0.5; 0;0;0;0
+top left corner green2;261;291;128;128; 0.5;0.5; 0;0;0;0
+top left corner green3;391;291;128;128; 0.5;0.5; 0;0;0;0
+top left corner green4;521;291;128;128; 0.5;0.5; 0;0;0;0
+top left edge green2;651;291;128;128; 0.5;0.5; 0;0;0;0
+top left edge green3;781;291;128;128; 0.5;0.5; 0;0;0;0
+top left edge green4;1;161;128;128; 0.5;0.5; 0;0;0;0
+top right corner green1;131;161;128;128; 0.5;0.5; 0;0;0;0
+top right corner green2;261;161;128;128; 0.5;0.5; 0;0;0;0
+top right corner green3;391;161;128;128; 0.5;0.5; 0;0;0;0
+top right corner green4;521;161;128;128; 0.5;0.5; 0;0;0;0
+top right edge green1;651;161;128;128; 0.5;0.5; 0;0;0;0
+top right edge green3;781;161;128;128; 0.5;0.5; 0;0;0;0
+top right edge green4;1;31;128;128; 0.5;0.5; 0;0;0;0
+vertical side walk green;131;31;128;128; 0.5;0.5; 0;0;0;0

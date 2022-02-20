@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f7468e7b31195b2c1b5e383093a00b9c:ecdfb54659b4b8f49ae44f9553f62ad0:81b4ba130e5a7db002d61fe492d511a6$
+#
+:format=40300
+:texture=DTCar.png
+:size=628x780
+:pivotpoints=enabled
+:borders=disabled
+
+DT car back;108;239;255;540; 0.5;0.5; 0;0;0;0
+DT car front;365;243;256;536; 0.5;0.5; 0;0;0;0
+DT car side;1;2;625;235; 0.5;0.5; 0;0;0;0
+DT car tire;1;690;105;89; 0.5;0.5; 0;0;0;0

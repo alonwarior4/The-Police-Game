@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpecialCar
+  - Open
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Vehicle
+  - Intersection
+  - Sign
+  - Camera
+  - SpawnPos
+  - SpecEnter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tiles
+    uniqueID: 4103946009
+    locked: 0
+  - name: BVObjs
+    uniqueID: 3109332339
+    locked: 0
+  - name: Vehicle
+    uniqueID: 1366782795
+    locked: 0
+  - name: PeopleBehind
+    uniqueID: 493459923
+    locked: 0
+  - name: FVObjs
+    uniqueID: 911240601
+    locked: 0
+  - name: PeopleFront
+    uniqueID: 573036141
+    locked: 0
+  - name: Sign
+    uniqueID: 3320599843
+    locked: 0
+  - name: SignLaser
+    uniqueID: 1878402519
+    locked: 0
+  - name: Woldspace UI
+    uniqueID: 1611979803
+    locked: 0
+  - name: ScreenSpace UI
+    uniqueID: 646037271
+    locked: 0
+  - name: Ticket
+    uniqueID: 4237397687
+    locked: 0
+  - name: UI
+    uniqueID: 4130176459
+    locked: 0
+  - name: D_Sign
+    uniqueID: 2519392195
+    locked: 0
+  - name: Tutorial
+    uniqueID: 502647349
+    locked: 0
+  - name: WinLose
+    uniqueID: 3666895641
+    locked: 0

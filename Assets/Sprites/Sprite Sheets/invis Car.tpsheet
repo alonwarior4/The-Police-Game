@@ -1,0 +1,19 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:3adfd713e4647dcf9ae7e98d657f0639:ba62f6bd6155a2b3261774328af25157:72ac632956733cdfe87fd1aee9d29778$
+#
+:format=40300
+:texture=invis Car.png
+:size=1648x1288
+:pivotpoints=enabled
+:borders=disabled
+
+Invisible car back;1;444;373;843; 0.5;0.5; 0;0;0;0
+Invisible car front;376;518;372;769; 0.5;0.5; 0;0;0;0
+Invisible car shield;750;485;896;802; 0.5;0.5; 0;0;0;0
+Invisible car side;1;3;830;439; 0.5;0.5; 0;0;0;0
+Invisible car tire;833;323;125;119; 0.5;0.5; 0;0;0;0

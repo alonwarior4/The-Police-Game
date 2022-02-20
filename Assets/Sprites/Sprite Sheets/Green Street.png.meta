@@ -1,0 +1,838 @@
+fileFormatVersion: 2
+guid: e45688c01864cdf47aaca2fd0e81fec0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3370497783126991698
+    second: buttom left edge green1
+  - first:
+      213: 9022411376011478596
+    second: buttom left edge green2
+  - first:
+      213: -7771029893198134400
+    second: buttom right corner green1
+  - first:
+      213: -3542478691987192092
+    second: buttom right corner green2
+  - first:
+      213: -57037273528934919
+    second: buttom right corner green3
+  - first:
+      213: -2396512878685282940
+    second: buttom right corner green4
+  - first:
+      213: 4384498648076224886
+    second: buttom right edge green1
+  - first:
+      213: 6131766628534754237
+    second: buttom right edge green2
+  - first:
+      213: -5928208532895315159
+    second: butttom left corner green1
+  - first:
+      213: 8710674951920331099
+    second: butttom left corner green2
+  - first:
+      213: 82061470790005920
+    second: butttom left corner green3
+  - first:
+      213: 6826111695253380311
+    second: butttom left corner green4
+  - first:
+      213: 5796297768492106826
+    second: horizontal side walk up green
+  - first:
+      213: 1220691039974089688
+    second: left line green
+  - first:
+      213: 3788137918254859562
+    second: right line green
+  - first:
+      213: 3007996311740666813
+    second: top left corner green1
+  - first:
+      213: 351497604653966089
+    second: top left corner green2
+  - first:
+      213: 3544619450537497320
+    second: top left corner green3
+  - first:
+      213: 2856893219307158925
+    second: top left corner green4
+  - first:
+      213: 3578056617059283803
+    second: top left edge green2
+  - first:
+      213: -1738868542578351374
+    second: top left edge green3
+  - first:
+      213: 1821902687068527088
+    second: top left edge green4
+  - first:
+      213: -5193593711262628881
+    second: top right corner green1
+  - first:
+      213: -2789906718988063274
+    second: top right corner green2
+  - first:
+      213: 7894583306701578850
+    second: top right corner green3
+  - first:
+      213: 1085050820980627784
+    second: top right corner green4
+  - first:
+      213: -8887553920798818500
+    second: top right edge green1
+  - first:
+      213: 8891072269416879990
+    second: top right edge green3
+  - first:
+      213: 9195773346221985626
+    second: top right edge green4
+  - first:
+      213: 3122016577683486353
+    second: vertical side walk green
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttom left edge green1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac5978bf169931d0800000000000000
+      internalID: -3370497783126991698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttom left edge green2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4468b9cf75b063d70800000000000000
+      internalID: 9022411376011478596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttom right corner green1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083cbfc1c71c72490800000000000000
+      internalID: -7771029893198134400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttom right corner green2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e686b3066696dec0800000000000000
+      internalID: -3542478691987192092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttom right corner green3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdd954e6ec553ff0800000000000000
+      internalID: -57037273528934919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttom right corner green4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d905eeb30edbed0800000000000000
+      internalID: -2396512878685282940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttom right edge green1
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67983c45a4ed8dc30800000000000000
+      internalID: 4384498648076224886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttom right edge green2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 421
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb986bd249681550800000000000000
+      internalID: 6131766628534754237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butttom left corner green1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 421
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bc5529fb5cabda0800000000000000
+      internalID: -5928208532895315159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butttom left corner green2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 421
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59aa17b7b882e870800000000000000
+      internalID: 8710674951920331099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butttom left corner green3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 421
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a43f20197a832100800000000000000
+      internalID: 82061470790005920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butttom left corner green4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 421
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc97b8ab683bbe50800000000000000
+      internalID: 6826111695253380311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horizontal side walk up green
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 421
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a448c5f3c16907050800000000000000
+      internalID: 5796297768492106826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: left line green
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 421
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3682a8804c0f010800000000000000
+      internalID: 1220691039974089688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right line green
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25c4c1cd5b229430800000000000000
+      internalID: 3788137918254859562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top left corner green1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3dcfe55bc8eb920800000000000000
+      internalID: 3007996311740666813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top left corner green2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903ecc88535c0e400800000000000000
+      internalID: 351497604653966089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top left corner green3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e25a3d2c94013130800000000000000
+      internalID: 3544619450537497320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top left corner green4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d760a1f39b5a720800000000000000
+      internalID: 2856893219307158925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top left edge green2
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53fd0e298fc7a130800000000000000
+      internalID: 3578056617059283803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top left edge green3
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f22480064c4ed7e0800000000000000
+      internalID: -1738868542578351374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top left edge green4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f99c0e47d2b84910800000000000000
+      internalID: 1821902687068527088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top right corner green1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 161
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe30d745906ace7b0800000000000000
+      internalID: -5193593711262628881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top right corner green2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 161
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddad32ee924849d0800000000000000
+      internalID: -2789906718988063274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top right corner green3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 161
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2622dada0b13f8d60800000000000000
+      internalID: 7894583306701578850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top right corner green4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 161
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849dbcb09ffde0f00800000000000000
+      internalID: 1085050820980627784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top right edge green1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 161
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ff7ac1cc019a480800000000000000
+      internalID: -8887553920798818500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top right edge green3
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 161
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6775be24f1f636b70800000000000000
+      internalID: 8891072269416879990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: top right edge green4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f01981323fd9f70800000000000000
+      internalID: 9195773346221985626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vertical side walk green
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 31
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19674b74981a35b20800000000000000
+      internalID: 3122016577683486353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

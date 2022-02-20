@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &645795869232530226
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6010719697877081896}
+  - component: {fileID: 3367425082353313075}
+  m_Layer: 0
+  m_Name: Side Crime
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6010719697877081896
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645795869232530226}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3367425082353313075
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645795869232530226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a749c66823c13584290df45f10288085, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  t_jobWorks:
+  - jobWork: 8
+    continueState: 0
+    delay: 1
+    timeScale: 0
+    PoliceTxt: {fileID: 0}
+    def_Pos: {x: 0, y: 0}
+    firstPosTransform: {fileID: 0}
+    lastPosTransform: {fileID: 0}
+    firstPos: {x: 0, y: 0}
+    lastPos: {x: 0, y: 0}
+    Duration: 0
+    isSimultaneous: 0
+  - jobWork: 12
+    continueState: 0
+    delay: 0
+    timeScale: 0
+    PoliceTxt: {fileID: 0}
+    def_Pos: {x: 0, y: 0}
+    firstPosTransform: {fileID: 0}
+    lastPosTransform: {fileID: 0}
+    firstPos: {x: 0, y: 0}
+    lastPos: {x: 0, y: 0}
+    Duration: 0
+    isSimultaneous: 0
+  - jobWork: 0
+    continueState: 0
+    delay: 0
+    timeScale: 0
+    PoliceTxt: {fileID: 11400000, guid: f327b8803d295e946b415622ea9ccecf, type: 2}
+    def_Pos: {x: 0, y: 0}
+    firstPosTransform: {fileID: 0}
+    lastPosTransform: {fileID: 0}
+    firstPos: {x: 0, y: 0}
+    lastPos: {x: 0, y: 0}
+    Duration: 0
+    isSimultaneous: 0
+  - jobWork: 1
+    continueState: 0
+    delay: 0
+    timeScale: 0
+    PoliceTxt: {fileID: 11400000, guid: f327b8803d295e946b415622ea9ccecf, type: 2}
+    def_Pos: {x: 0, y: 0}
+    firstPosTransform: {fileID: 0}
+    lastPosTransform: {fileID: 0}
+    firstPos: {x: 0, y: 0}
+    lastPos: {x: 0, y: 0}
+    Duration: 0
+    isSimultaneous: 0
+  - jobWork: 13
+    continueState: 2
+    delay: 0
+    timeScale: 1
+    PoliceTxt: {fileID: 11400000, guid: f327b8803d295e946b415622ea9ccecf, type: 2}
+    def_Pos: {x: 0, y: 0}
+    firstPosTransform: {fileID: 0}
+    lastPosTransform: {fileID: 0}
+    firstPos: {x: 0, y: 0}
+    lastPos: {x: 0, y: 0}
+    Duration: 0
+    isSimultaneous: 0
+  - jobWork: 5
+    continueState: 0
+    delay: 0
+    timeScale: 0
+    PoliceTxt: {fileID: 11400000, guid: f327b8803d295e946b415622ea9ccecf, type: 2}
+    def_Pos: {x: 0, y: 0}
+    firstPosTransform: {fileID: 0}
+    lastPosTransform: {fileID: 0}
+    firstPos: {x: 0, y: 0}
+    lastPos: {x: 0, y: 0}
+    Duration: 0
+    isSimultaneous: 0
+  - jobWork: 9
+    continueState: 2
+    delay: 0
+    timeScale: 0
+    PoliceTxt: {fileID: 11400000, guid: f327b8803d295e946b415622ea9ccecf, type: 2}
+    def_Pos: {x: 0, y: 0}
+    firstPosTransform: {fileID: 0}
+    lastPosTransform: {fileID: 0}
+    firstPos: {x: 0, y: 0}
+    lastPos: {x: 0, y: 0}
+    Duration: 0
+    isSimultaneous: 0
+  - jobWork: 7
+    continueState: 2
+    delay: 0
+    timeScale: 1
+    PoliceTxt: {fileID: 11400000, guid: f327b8803d295e946b415622ea9ccecf, type: 2}
+    def_Pos: {x: 0, y: 0}
+    firstPosTransform: {fileID: 0}
+    lastPosTransform: {fileID: 0}
+    firstPos: {x: 0, y: 0}
+    lastPos: {x: 0, y: 0}
+    Duration: 0
+    isSimultaneous: 0
+  - jobWork: 8
+    continueState: 2
+    delay: 0
+    timeScale: 1
+    PoliceTxt: {fileID: 11400000, guid: f327b8803d295e946b415622ea9ccecf, type: 2}
+    def_Pos: {x: 0, y: 0}
+    firstPosTransform: {fileID: 0}
+    lastPosTransform: {fileID: 0}
+    firstPos: {x: 0, y: 0}
+    lastPos: {x: 0, y: 0}
+    Duration: 0
+    isSimultaneous: 0
+  policePanel: {fileID: 0}
+  circleHighlighte: {fileID: 0}
+  handPointer: {fileID: 0}
+  sliderHighlighte: {fileID: 0}
+  rayBlocker: {fileID: 0}
+  currentTutoCarTransform: {fileID: 0}
+  currentItemPos: {x: 0, y: 0}
+  listCount: 0
+  arrayIndex: 0
+  currentContinueState: 0

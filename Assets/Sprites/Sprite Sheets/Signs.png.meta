@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: ff186440c8ec58c419b164560bc05bb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6922115273631188911
+    second: camera
+  - first:
+      213: -4894064495105464798
+    second: No entry sign
+  - first:
+      213: -2261484035254949800
+    second: No left-turn sign
+  - first:
+      213: 4193245919488107292
+    second: No right-turn sign
+  - first:
+      213: -6030449132043204549
+    second: No stop-parking sign
+  - first:
+      213: -387317234056801326
+    second: No u-turn sign
+  - first:
+      213: 5592040008608737778
+    second: unassigned camera
+  - first:
+      213: 8186548989019961851
+    second: unassigned sign
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: camera
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 345
+        width: 124
+        height: 294
+      alignment: 9
+      pivot: {x: 0.5271475, y: 0.02636989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7c71b9a2b401060800000000000000
+      internalID: 6922115273631188911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No entry sign
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 329
+        width: 133
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5185379, y: 0.01953952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2262365854ac41cb0800000000000000
+      internalID: -4894064495105464798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No left-turn sign
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 134
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5181825, y: 0.007788633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858696570489d90e0800000000000000
+      internalID: -2261484035254949800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No right-turn sign
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 21
+        width: 134
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5192454, y: 0.007809695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13e1fe62f6613a30800000000000000
+      internalID: 4193245919488107292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No stop-parking sign
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 329
+        width: 134
+        height: 310
+      alignment: 9
+      pivot: {x: 0.5146393, y: 0.01950428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b388080177a8f4ca0800000000000000
+      internalID: -6030449132043204549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No u-turn sign
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 21
+        width: 134
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5195659, y: 0.007029041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d358a81709ff9af0800000000000000
+      internalID: -387317234056801326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unassigned camera
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 377
+        width: 83
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5711836, y: 0.01822167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f965ea82caea9d40800000000000000
+      internalID: 5592040008608737778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unassigned sign
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 349
+        width: 44
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5218154, y: 0.006775008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf93eda6ee67c9170800000000000000
+      internalID: 8186548989019961851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

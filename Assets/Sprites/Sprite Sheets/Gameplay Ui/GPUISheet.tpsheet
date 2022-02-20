@@ -1,0 +1,44 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:b8ae0b5e7f718e4c1e1c228a373ed219:1791b79f590d9c8829fa6db158cf0362:0e23ec22582a75f480ec0eeddc9c048d$
+#
+:format=40300
+:texture=GPUISheet.png
+:size=1024x2048
+:pivotpoints=enabled
+:borders=disabled
+
+blue sign cost;773;232;167;52; 0.5;0.5; 0;0;0;0
+board;1;1584;720;463; 0.5;0.5; 0;0;0;0
+Camera;615;120;156;152; 0.5;0.5; 0;0;0;0
+caution;723;1791;256;256; 0.5;0.5; 0;0;0;0
+Dialogue box;1;223;564;376; 0.5;0.5; 0;0;0;0
+gray sign cost;773;178;166;52; 0.5;0.5; 0;0;0;0
+home;567;274;200;200; 0.5;0.5; 0;0;0;0
+inventory panel;1;20;738;59; 0.5;0.5; 0;0;0;0
+money count panel;447;704;292;124; 0.5;0.5; 0;0;0;0
+No entry sign;703;1228;156;152; 0.5;0.5; 0;0;0;0
+no left-turn sign;867;1074;156;152; 0.5;0.5; 0;0;0;0
+no right-turn sign;867;920;156;152; 0.5;0.5; 0;0;0;0
+no stop-parking sign;867;766;156;152; 0.5;0.5; 0;0;0;0
+no U-turn sign;861;1228;156;152; 0.5;0.5; 0;0;0;0
+OK button;741;704;124;124; 0.5;0.5; 0;0;0;0
+Pause button;769;408;112;112; 0.5;0.5; 0;0;0;0
+Play;447;830;350;350; 0.5;0.5; 0;0;0;0
+Point;769;286;100;120; 0.0833;0.928; 0;0;0;0
+Police;1;601;444;579; 0.5;0.5; 0;0;0;0
+pop up button;447;610;87;66; 0.5;0.5; 0;0;0;0
+PopUp;1;1182;700;400; 0.5;0.5; 0;0;0;0
+progress bar;1;81;612;140; 0.5;0.5; 0;0;0;0
+Reload;723;1589;200;200; 0.5;0.5; 0;0;0;0
+selectLevel;703;1382;200;200; 0.5;0.5; 0;0;0;0
+siren off;745;1182;36;44; 0.5;0.5; 0;0;0;0
+Siren ON;703;1182;40;44; 0.5;0.5; 0;0;0;0
+slider fill;447;678;340;24; 0.5;0.5; 0;0;0;0
+Sound;867;644;120;120; 0.5;0.5; 0;0;0;0
+SoundOff;769;522;120;120; 0.5;0.5; 0;0;0;0
+Square;567;476;200;200; 0.5;0.5; 0;0;0;0

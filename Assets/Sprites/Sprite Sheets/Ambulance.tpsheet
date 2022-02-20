@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:25608c296080b6640ec6a112d46b7972:169629b806666ea2fd782a347b74f6cc:86f1a3b56f7ce5cabbad3fae0bcf6762$
+#
+:format=40300
+:texture=Ambulance.png
+:size=836x860
+:pivotpoints=enabled
+:borders=disabled
+
+A_Bot;305;336;261;523; 0.5;0.5; 0;0;0;0
+A_Side;1;2;685;332; 0.5;0.5; 0;0;0;0
+A_Tire;215;775;88;84; 0.5;0.5; 0;0;0;0
+A_Top;568;360;267;499; 0.5;0.5; 0;0;0;0
+Azhir 1;127;821;86;38; 0.5;0.5; 0;0;0;0
+Azhir 2;40;770;85;89; 0.5;0.5; 0;0;0;0
+Azhir 3;1;787;37;72; 0.5;0.5; 0;0;0;0
