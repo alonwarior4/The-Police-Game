@@ -46,12 +46,16 @@ public class WinLoseUI : MonoBehaviour
 
     public void Win()
     {
+        Ad_Manager.instance.RequestBanner();
+
         AudioManager.AM_Instance.PlayWinSound();
         StartCoroutine(WinCoroutine());
     }
 
     public void Lose()
     {
+        Ad_Manager.instance.RequestVideo();        
+
         StartCoroutine(LoseCoroutine());
     }
 
