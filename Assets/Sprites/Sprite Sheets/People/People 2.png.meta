@@ -111,7 +111,7 @@ TextureImporter:
       213: 2074921853502568593
     second: People 2_35
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -128,10 +128,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -140,9 +142,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -163,11 +165,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -179,6 +185,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -191,6 +198,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -203,6 +211,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -974,9 +996,45 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      People 2_0: 3783460125474536290
+      People 2_1: 4544486889929940401
+      People 2_10: -913442316235195699
+      People 2_11: 7380013910733607566
+      People 2_12: 2596025395618442324
+      People 2_13: 6209469364845455222
+      People 2_14: -4287185659443461759
+      People 2_15: -3622442664581565363
+      People 2_16: -4138391374697092435
+      People 2_17: 5202395842194877336
+      People 2_18: 2104666895902055535
+      People 2_19: -6244260363492206322
+      People 2_2: -1377137827755196617
+      People 2_20: 8716826107393584826
+      People 2_21: 786412416180800549
+      People 2_22: 6377774228403361615
+      People 2_23: -5050535684693131994
+      People 2_24: -744990332774643486
+      People 2_25: 2771903419136174312
+      People 2_26: -8784153388156441982
+      People 2_27: 4959975155052018096
+      People 2_28: -4311470855343449359
+      People 2_29: 2868371299675307084
+      People 2_3: 1856158122455327898
+      People 2_30: -7861329921139803322
+      People 2_31: -6938283083842873601
+      People 2_32: -7944022156906972209
+      People 2_33: 3857240722348847317
+      People 2_34: -4343838852662432524
+      People 2_35: 2074921853502568593
+      People 2_4: -8289698247490025500
+      People 2_5: -6315950140126180966
+      People 2_6: 8918476441813790831
+      People 2_7: 8887916332078060946
+      People 2_8: -5571146402244306371
+      People 2_9: -5033505207385614152
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

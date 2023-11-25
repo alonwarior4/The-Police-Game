@@ -255,7 +255,7 @@ TextureImporter:
       213: -4392004326440437011
     second: vertical top grass 2
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -272,10 +272,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -284,9 +286,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -307,11 +309,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -323,6 +329,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -335,6 +342,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -347,6 +355,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -2126,9 +2148,93 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      buttom left corner camera slot 1: -5647788385973044764
+      buttom left corner camera slot 2: -6954985585070522182
+      buttom left corner grass 1: 5929639758536266631
+      buttom left corner grass 2: 5234951491259027159
+      buttom left corner sign slot 1: 8344382313165808790
+      buttom left corner sign slot 2: -4243003876349972782
+      buttom left edge grass1: -2405800926204385396
+      buttom left edge grass2: -8793911274281636018
+      buttom left edge grass3: 3621012429916773113
+      buttom left edge grass5: 2125916178703386642
+      buttom left edge grass6: -185168171551405847
+      buttom right corner camera slot 1: 2435083243373426778
+      buttom right corner camera slot 2: 6707341970064867968
+      buttom right corner grass 1: 8290381759457972972
+      buttom right corner grass 2: 4465566622933702625
+      buttom right corner sign slot 1: -6212666281622967734
+      buttom right corner sign slot 2: -2261211453804381693
+      buttom right edge grass1: -6577773818697278762
+      buttom right edge grass2: -6515415805776497370
+      buttom right edge grass3: 4771073897479733889
+      buttom right edge grass4: -8924641511621090419
+      buttom right edge grass5: -8186632624306750304
+      free space: 4949993162041753343
+      free space buttom: 8648079304252868916
+      horizontal Boulevard grass alnoe: 3738554489277818172
+      horizontal Boulevard left grass: 8942155458773033032
+      horizontal Boulevard middle grass: 392462310664302168
+      horizontal Boulevard right grass: -3105077991915330004
+      horizontal buttom camera slot: 5947093254557146909
+      horizontal buttom grass alnoe: 9042667083536121549
+      horizontal buttom left grass: -3300630764770777185
+      horizontal buttom middle grass: -3308707577612762046
+      horizontal buttom right grass: 2385737215744056967
+      horizontal buttom sign slot: 799785322177172620
+      horizontal left Boulevard camera slot: 7081749718095083511
+      horizontal left Boulevard sign slot: 1987752030895907077
+      horizontal right Boulevard camera slot: -8632850943387444721
+      horizontal right Boulevard sign slot: -1927045474393913451
+      horizontal top camera slot: 3575978006893786674
+      horizontal top grass alnoe: -7579821107509143786
+      horizontal top left grass: -1997022335858278519
+      horizontal top middle grass: 7678190478496147695
+      horizontal top right grass: -7478400933713055109
+      horizontal top sign slot: 8492836745001920643
+      top left corner camera slot 1: 1861938823079387816
+      top left corner camera slot 2: 8339661420107932103
+      top left corner grass 1: 4677211050241216946
+      top left corner grass 2: -4109297880183701090
+      top left corner sign slot 1: -6308435984623719822
+      top left corner sign slot 2: -1404618908527688183
+      top left edge grass2: -3037146505074259915
+      top left edge grass3: 4064661569326843633
+      top left edge grass4: -519709846846346680
+      top left edge grass5: 2659913222968854199
+      top right corner camera slot 1: -1048301152087346513
+      top right corner camera slot 2: 4065791086238650764
+      top right corner grass 1: -6780523747655384278
+      top right corner grass 2: -5487641416734624505
+      top right corner sign slot 1: 7876558887365788332
+      top right corner sign slot 2: -6426616643173701391
+      top right edge grass1: -8653213672894114353
+      top right edge grass2: -120031006486831851
+      top right edge grass5: 8409876631889316418
+      top right edge grass6: -6665397690445851510
+      vertical Boulevard  camera slot buttom: 6686690638759794171
+      vertical Boulevard  middle grass: -5087507748747032982
+      vertical Boulevard buttom grass: 1112157319937070770
+      vertical Boulevard grass alone: -675140938685915235
+      vertical Boulevard top grass: -1716321458321880951
+      vertical Buttom Boulevard sign slot: 545526503234815655
+      vertical buttom grass 1: 8688940499514017978
+      vertical buttom grass 2: 8388267016946476666
+      vertical camera slot1: -5887330140859551902
+      vertical camera slot2: -1968735591220594335
+      vertical grass alone 1: -5157284982725971127
+      vertical grass alone 2: -1959586639338627126
+      vertical middle grass 1: -3531034509386194615
+      vertical middle grass 2: 1853773692282871031
+      vertical sign slot 1: 7326499305368700944
+      vertical sign slot 2: -7114075166066678578
+      vertical top Boulevard  sign slot: -8223342591798500911
+      vertical top Boulevard camera slot: 8680249665127224081
+      vertical top grass 1: -4464877626033867265
+      vertical top grass 2: -4392004326440437011
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

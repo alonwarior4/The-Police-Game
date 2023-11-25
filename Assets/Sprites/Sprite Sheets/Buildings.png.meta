@@ -189,7 +189,7 @@ TextureImporter:
       213: -1163780328329116348
     second: house68mosque
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -206,10 +206,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -218,9 +220,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -241,11 +243,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -257,6 +263,46 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -1574,9 +1620,71 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      house1: -5980611828446415966
+      house10: -2831664491069077939
+      house11: -2522693267783155043
+      house12: -2933079710957849468
+      house13: 424478318554559069
+      house14: -6417941494966738529
+      house15: -4055780434160653573
+      house16: -1880259069838018315
+      house17: -5931470016812130793
+      house18: 7112827341772803382
+      house19: 6180942889563457398
+      house2: -1851440163182187196
+      house20: -310323473127081806
+      house21: 3727510361104120598
+      house22: 6277654270326924290
+      house29: -1761851559091355553
+      house3: 6404572326498971439
+      house30: -2045966496898442115
+      house31: 6181198074873047410
+      house32: 467740758550468760
+      house33: -1827949506248667584
+      house34: -816411077042861998
+      house35: 2535695357633611122
+      house36: 284516966441084690
+      house37: 4500991325619788812
+      house38: 6343948127692174777
+      house39: -1108122483221362754
+      house4: 6433139783164493279
+      house40: -4718479354855022351
+      house41: -3035030126581988749
+      house42: 1498240335288626321
+      house43: 7282319244840043181
+      house44: 7134657360764081797
+      house45: 8133140254687996834
+      house46: -5971438581829060596
+      house47: -5007367172111263948
+      house48: -4939658910336869993
+      house49: -1655056853242736172
+      house5: -3578206389103264279
+      house50back: 2244159939953908335
+      house51back: -5651112020423741137
+      house52back: -3323760412884904123
+      house53back: 8807070661462920511
+      house54back: -5967556711598031178
+      house55back: 945703344314384582
+      house56back: 320494169395568353
+      house57back: -3429224869711250040
+      house58back: -7377689492505644366
+      house59back: -1741301837410599513
+      house6: -2383188638628466093
+      house60back: -3086451869323330059
+      house61back: 2054562923694279172
+      house62back: 3796954456829280754
+      house63back: 6654822268321393460
+      house64back: -6521431292447262281
+      house65back: 1881200808334477626
+      house66back: -4948009009613585544
+      house67hospital: -8775782766990479108
+      house68mosque: -1163780328329116348
+      house7: -784393890948523313
+      house8: 2094651132362187501
+      house9: 5655324763575535765
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

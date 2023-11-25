@@ -108,7 +108,7 @@ TextureImporter:
       213: -719949144891388860
     second: Unlocked level
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -125,10 +125,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -137,9 +139,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -160,11 +162,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -176,6 +182,46 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -926,9 +972,44 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      Example sign: -2289263979426133477
+      Level button 1: -4972323223925202514
+      Level button 10: -5174420871113559885
+      Level button 2: -5833686512354140465
+      Level button 3: 5043010739656059063
+      Level button 4: -2673929749909161169
+      Level button 5: -2828397932836879621
+      Level button 6: -164986994895475203
+      Level button 7: -5220723015788493488
+      Level button 8: 4974821318510975778
+      Level button 9: -3422147828184327434
+      Locked level: -7346041877484194132
+      Main menu lights: -6101297662671609110
+      MoreGames: -8114861821740186331
+      Music: 2794184086549052997
+      MusicOff: -8833110195795953241
+      New icon: -8413813123556871631
+      No entry sign: -4894064495105464798
+      PlayG: 1210190682975482481
+      PopUp: -9114749870392594886
+      Setting: 6541475979423252992
+      ShutDown: -6875934704076255015
+      Sign inventory gradiant: 4898381009537608242
+      Sound: -1186915053270466063
+      SoundOff: -2295713347213856984
+      'Title panel ': -7426700820692949312
+      Tutorial: -1743633646742617056
+      Unlocked level: -719949144891388860
+      back button: 5847270750283865226
+      game logo: 6437908574380301959
+      lock: 8464627282614862601
+      no U-turn sign: 1303281478106886690
+      no left-turn sign: -6038308835552121142
+      no right-turn sign: 7401706686377970960
+      no stop-parking sign: 2039801864594226112
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

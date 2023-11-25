@@ -93,7 +93,7 @@ TextureImporter:
       213: 3122016577683486353
     second: vertical side walk green
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -110,10 +110,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -122,9 +124,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -145,11 +147,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -161,6 +167,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -173,6 +180,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -185,6 +193,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -830,9 +852,39 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      buttom left edge green1: -3370497783126991698
+      buttom left edge green2: 9022411376011478596
+      buttom right corner green1: -7771029893198134400
+      buttom right corner green2: -3542478691987192092
+      buttom right corner green3: -57037273528934919
+      buttom right corner green4: -2396512878685282940
+      buttom right edge green1: 4384498648076224886
+      buttom right edge green2: 6131766628534754237
+      butttom left corner green1: -5928208532895315159
+      butttom left corner green2: 8710674951920331099
+      butttom left corner green3: 82061470790005920
+      butttom left corner green4: 6826111695253380311
+      horizontal side walk up green: 5796297768492106826
+      left line green: 1220691039974089688
+      right line green: 3788137918254859562
+      top left corner green1: 3007996311740666813
+      top left corner green2: 351497604653966089
+      top left corner green3: 3544619450537497320
+      top left corner green4: 2856893219307158925
+      top left edge green2: 3578056617059283803
+      top left edge green3: -1738868542578351374
+      top left edge green4: 1821902687068527088
+      top right corner green1: -5193593711262628881
+      top right corner green2: -2789906718988063274
+      top right corner green3: 7894583306701578850
+      top right corner green4: 1085050820980627784
+      top right edge green1: -8887553920798818500
+      top right edge green3: 8891072269416879990
+      top right edge green4: 9195773346221985626
+      vertical side walk green: 3122016577683486353
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -108,7 +108,7 @@ TextureImporter:
       213: 5742384546784767727
     second: vertical side walk
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -125,10 +125,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -137,9 +139,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -160,11 +162,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -176,6 +182,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -188,6 +195,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -200,6 +208,20 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -950,9 +972,44 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      buttom left edge 1: -1080459279797471685
+      buttom left edge 2: 1285128461423049034
+      buttom right corner 1: 405875031486260052
+      buttom right corner 2: -2011459749272632198
+      buttom right corner 3: 757555482397635068
+      buttom right corner 4: -5759941368514242302
+      buttom right edge 1: -8277217911276319038
+      buttom right edge 2: 2318174158030477218
+      butttom left corner 1: 7995701444615588555
+      butttom left corner 2: -7876516872342102417
+      butttom left corner 3: -5756609040335048382
+      butttom left corner 4: -4042380882908740504
+      down line: 5923057135606395090
+      horizontal middle line: 6232492841165869093
+      horizontal side walk up: 5454694045906557208
+      left line: 4826086743182260989
+      right line: 4693611365543622808
+      street field: 4838299020787406160
+      top left corner 1: 2490936096024106289
+      top left corner 2: 359353648666785807
+      top left corner 3: -2378034045557809991
+      top left corner 4: 3100594156121423144
+      top left edge 2: -6554535259326140611
+      top left edge 3: 8477831026549494556
+      top left edge 4: -7003626030498033349
+      top right corner 1: -4331335506626545102
+      top right corner 2: 2426818984633058378
+      top right corner 3: -6313889166521944366
+      top right corner 4: 5035574730619679248
+      top right edge 1: -5135820800283663341
+      top right edge 3: 7070730307985905241
+      top right edge 4: 2476237524183574100
+      up line: 8605398910310925912
+      vertical middle line: 599042227891851950
+      vertical side walk: 5742384546784767727
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -165,7 +165,7 @@ public class MenuManager : MonoBehaviour
 
     public void OtherApps()
     {
-        Application.OpenURL("https://cafebazaar.ir/developer/859778002099");
+        Application.OpenURL("https://cgamestudio.ir/");
     }
 
 
