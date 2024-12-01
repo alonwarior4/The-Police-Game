@@ -34,7 +34,7 @@ public class Ad_Manager : MonoBehaviour
             (error) => { });
     }
 
-    void ShowVideo(string responseID)
+    private void ShowVideo(string responseID)
     {
         TapsellPlus.ShowInterstitialAd(responseID, (tap_Ad_Module) => { },
             (tap_Ad_Module) => { }, (error) => { });        
@@ -48,7 +48,7 @@ public class Ad_Manager : MonoBehaviour
         }, (error) => { });
     }
 
-    void ShowBanner(string responseID)
+    private void ShowBanner(string responseID)
     {
         TapsellPlus.ShowInterstitialAd(responseID, (tap_Ad_Module) => { },
             (tap_Ad_Module) => { }, (error) => { });
